@@ -16,3 +16,4 @@ This To-do list app built in HTML, CSS, and JavaScript.
 
 
 ![Alt Text](https://media.giphy.com/media/QLNJKCDD69T8ZQjHVv/giphy.gif)
+<img src="https://media.giphy.com/media/QLNJKCDD69T8ZQjHVv/giphy.gif" width="400" height="200" />
