@@ -15,4 +15,4 @@ Key Features:
 This To-do list app built in HTML, CSS, and JavaScript.
 
 
-<img src="https://media.giphy.com/media/QLNJKCDD69T8ZQjHVv/giphy.gif" width="1000" height="300" />
+<img src="https://media.giphy.com/media/QLNJKCDD69T8ZQjHVv/giphy.gif" width="900" height="250" />
